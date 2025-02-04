@@ -1,2 +1,3 @@
-It is based on Pro_Bert and classification by softmax
-I am coding...
+# Pro_Bert Classification
+
+This project is based on [Pro_Bert](https://huggingface.co/Rostlab/prot_bert) and uses softmax for classification.
